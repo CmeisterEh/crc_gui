@@ -1,0 +1,4 @@
+C/C++, int, {, }, ;, END
+Python,   , [, ],  , END
+Java,     ,  ,  ,  , END 
+test,     ,  ,  , *, END

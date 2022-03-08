@@ -1,0 +1,11 @@
+
+CRC-8-CCIT:   0x107
+CRC-12:       0x80F
+CRC-16-CCIT:  0x11021
+Xmodem:       0x11021
+CRC-16-IBM:   0x18005
+Modbus:       0x18005
+CRC-32:       0x104C11DB7
+Zmodem:       0x104C11DB7
+Xmodem:       0x11021
+test:         0x1234
