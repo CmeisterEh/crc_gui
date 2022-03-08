@@ -1,11 +1,11 @@
 #     CRC Program Overview
 
-![alt text](images/GUI Screen.jpg)
+![alt text](images/GUIScreen.jpg)
 
 ## CRC Operation Flow Diagram
 
-![alt text](images/CRC Diagram.jpg)
+![alt text](images/CRCDiagram.jpg)
 
 ## CRC Simplified Example
 
-![alt text](images/CRC Example.jpg)
+![alt text](images/CRCExample.jpg)
