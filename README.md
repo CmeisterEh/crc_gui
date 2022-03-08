@@ -1,5 +1,4 @@
 #     CRC Program Overview
-***
 
 
 The CRC operation is useful for error checking data. Errors can be randomly created in transmitted  data due to electromagnetic interference in the transmission medium. These errors corrupt the transmitted data. We can't necessarily correct these errors. However, we can check to see if an error has occurred. To do this, CRC error checking is one such method. 
