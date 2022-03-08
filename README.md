@@ -37,3 +37,5 @@ The GUI also has some built in help files, PDF's that will open from the drop-do
 ## CRC Simplified Example
 
 ![alt text](images/CRCExample.jpg)
+
+Note: CRC Codes pulled from [Wikipedia](https://en.wikipedia.org/wiki/Cyclic_redundancy_check#CRC_catalogues)
