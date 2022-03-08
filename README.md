@@ -33,6 +33,8 @@ The GUI also has some built in help files, PDF's that will open from the drop-do
 
 ![alt text](images/CRCDiagram.jpg)
 
+*Note to  self: "Error" on the decoding side should say "remainder" 
+
 ## CRC Simplified Example
 
 ![alt text](images/CRCExample.jpg)
