@@ -24,7 +24,9 @@ This program is based on a number of dependencies
 
 I might come along and simplify these into one folder, but right now they are separate projects. 
 
+The GUI also has some built in help files, PDF's that will open from the drop-down "Help" menu. 
 
+## CRC GUI, how it looks
 ![alt text](images/GUIScreen.jpg)
 
 ## CRC Operation Flow Diagram
